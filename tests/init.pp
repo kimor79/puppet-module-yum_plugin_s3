@@ -9,4 +9,4 @@
 # Learn more about module testing here:
 # http://docs.puppetlabs.com/guides/tests_smoke.html
 #
-include yum_s3
+include yum_plugin_s3

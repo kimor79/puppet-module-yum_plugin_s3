@@ -1,12 +1,12 @@
 {
-  "name": "igromik-yum_s3",
+  "name": "igromik-yum_plugin_s3",
   "version": "0.0.1",
   "author": "igromik",
   "summary": "Installs the yum-s3-iam plugin",
   "license": "BSD",
-  "source": "https://github.com/kimor79/puppet-module-yum_s3",
-  "project_page": "https://github.com/kimor79/puppet-module-yum_s3",
-  "issues_url": "https://github.com/kimor79/puppet-module-yum_s3/issues",
+  "source": "https://github.com/kimor79/puppet-module-yum_plugin_s3",
+  "project_page": "https://github.com/kimor79/puppet-module-yum_plugin_s3",
+  "issues_url": "https://github.com/kimor79/puppet-module-yum_plugin_s3/issues",
   "dependencies": [
     {
       "name": "puppetlabs-stdlib",
