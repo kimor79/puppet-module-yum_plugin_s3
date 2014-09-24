@@ -1,5 +1,5 @@
 # Private class
-class yum_plugins_s3::params (
+class yum_plugin_s3::params (
   $conf_dir       = '/etc/yum/pluginconf.d',
   $plugin_dir     = '/usr/lib/yum-plugins',
   $plugin_enabled = true,
